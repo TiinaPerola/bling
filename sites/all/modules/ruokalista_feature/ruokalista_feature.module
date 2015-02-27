@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the ruokalista feature.
+ */
+
+include_once 'ruokalista_feature.features.inc';
